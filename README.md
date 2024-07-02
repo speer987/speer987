@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi! I'm Saarah! 
+I'm a Computer Science major with a Statistics and Data Science minor from Loyola Marymount University (Class of 2024).
 
+Fun fact: When I'm not programming, you can find me crocheting!
 <!--
 **speer987/speer987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
