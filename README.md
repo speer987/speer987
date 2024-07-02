@@ -1,4 +1,4 @@
-## Hi! I'm Saarah! 
+## Hi! Nice to Meet You! 
 I'm a Computer Science major with a Statistics and Data Science minor from Loyola Marymount University (Class of 2024).
 
 Fun fact: When I'm not programming, you can find me crocheting!
