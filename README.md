@@ -7,5 +7,5 @@ I hope I can use my Github profile to showcase more projects that I will (hopefu
 When I'm not programming, you can find me crocheting or sewing!
 
 You can find me at the following links:
-![Personal Website](https://speer987.github.io/personal-website/)
-![LinkedIn]()
+[Personal Website](https://speer987.github.io/personal-website/)
+[LinkedIn](https://www.linkedin.com/in/saarah-peer/)
