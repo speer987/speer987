@@ -1,0 +1,7 @@
+Welcome to my Github Profile! Nice to mee you!
+
+My name is Saarah and I recently graduated from Loyola Marymount University with a major in Computer Science and a minor in Statistics and Data Science. I'm currently looking for work as a Software Engineer, Data Scientist, UI/UX Designer, Front End Developer or Backend Developer. During my time at LMU, my favorite subjects included Database Systems and Human Computer Interaction. 
+
+I hope I can use my Github profile to showcase more projects that I will (hopefully) be programming in my free time. Thanks for stopping by, and feel free to look at any of the repos  I already have on my profile to gain insights into some of my favorite Front End Development/UI Design related projects such as "The Book Nook" or the compound interest calculator.
+
+When I'm not programming, you can find me crocheting or sewing!
