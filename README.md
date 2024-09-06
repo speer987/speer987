@@ -7,4 +7,5 @@ I hope I can use my Github profile to showcase more projects that I will (hopefu
 When I'm not programming, you can find me crocheting or sewing!
 
 You can find me at the following links:
-![Static Badge](https://img.shields.io/badge/Personal%20Website%20-%20https://speer987.github.io/personal-website/%20-%20Green)
+![Personal Website](https://speer987.github.io/personal-website/)
+![LinkedIn]()
