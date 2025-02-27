@@ -17,6 +17,7 @@ I hope I can use my Github profile to showcase more projects that I will (hopefu
 
 <img src="projects.png" alt="bubble font I doodled of project heading" height="60" />
 Here is a list of all the projects that I have worked on:
+
 - [React Native LMU Marketplace Mobile App](https://github.com/speer987/senior-project-2)
 - [React Book Wishlist/Tracking Web App (The Book Nook)](https://github.com/speer987/the-book-nook)
 - [YeeHaw Programming Language](https://github.com/alex-armknecht/YeeHaw) - Group Project
