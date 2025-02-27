@@ -18,6 +18,7 @@ Add some info about what you are learning currently.
 
 <img src="connect.png" alt="bubble font I doodled of connect heading" height="60" />
 You can find me at the following links:
+
 [Personal Website](https://speer987.github.io/personal-website/)
 [LinkedIn](https://www.linkedin.com/in/saarah-peer/)
 
