@@ -16,7 +16,17 @@ I hope I can use my Github profile to showcase more projects that I will (hopefu
 - General Language Skills: Javascript, Python, Java, SQL, React.js, React Native, CSS, Cypher (Neo4J), R
 
 <img src="projects.png" alt="bubble font I doodled of project heading" height="60" />
-Here's a table of all the projects I have done so far:
+Here is a list of all the projects that I have worked on:
+- [React Native LMU Marketplace Mobile App](https://github.com/speer987/senior-project-2)
+- [React Book Wishlist/Tracking Web App (The Book Nook)](https://github.com/speer987/the-book-nook)
+- [YeeHaw Programming Language](https://github.com/alex-armknecht/YeeHaw) - Group Project
+- [Command Line Utility (mkfid - Make File in Directory)](https://github.com/Sarronnn/CMSI-3510_Tadesse-Ramchandran-Peer-Abrams/tree/978d50c162fe4ea5cc9a2c40beb352426755fb5e/project/03-FinalProduct)
+- [Full Graph Database SDK w/ Command Line Interface](https://github.com/lmu-cmsi3520-fall2022/full-db-sdk-saarah/tree/main)
+- [React Nutrition Web App](https://github.com/joanna-estrada/nutrition) - Group Project
+- [React Country Data Finder Web App](https://github.com/speer987/react-country-finder)
+- [Compound Interest Calculator Web App](https://github.com/speer987/compound-interest-calculator)
+- Medication Tracking Mobile App (BetterHealth App) - Group Project
+- Website for Client with Special Needs
 
 
 <img src="learning_and_goals.png" alt="bubble font I doodled of learning and goals heading" height="60" />
