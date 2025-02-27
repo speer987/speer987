@@ -8,16 +8,16 @@ I recently graduated from Loyola Marymount University with a major in Computer S
 
 I hope I can use my Github profile to showcase more projects that I will (hopefully) be programming in my free time. Thanks for stopping by, and feel free to look at any of the repos  I already have on my profile to gain insights into some of my favorite Front End Development/UI Design related projects such as "The Book Nook" or the compound interest calculator. You can see these projects under the Projects heading below!
 
-<img src="techstack_skills.png" alt="bubble font I doodled of tech stack and skills heading" height="50" />
+<img src="techstack_skills.png" alt="bubble font I doodled of tech stack and skills heading" height="50" style="display: block; margin: 0; padding: 0; border: none;"/>
 Add some info about tech stack and skills.
 
-<img src="projects.png" alt="bubble font I doodled of project heading" height="60" />
+<img src="projects.png" alt="bubble font I doodled of project heading" height="60" style="display: block; margin: 0; padding: 0; border: none;"/>
 Add some info about projects here.
 
-<img src="learning_and_goals.png" alt="bubble font I doodled of learning and goals heading" height="60" />
+<img src="learning_and_goals.png" alt="bubble font I doodled of learning and goals heading" height="60" style="display: block; margin: 0; padding: 0; border: none;"/>
 Add some info about what you are learning currently.
 
-<img src="connect.png" alt="bubble font I doodled of connect heading" height="60" />
+<img src="connect.png" alt="bubble font I doodled of connect heading" height="60" style="display: block; margin: 0; padding: 0; border: none;" />
 You can find me at the following links:
 
 [Personal Website](https://speer987.github.io/personal-website/)
