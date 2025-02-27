@@ -5,7 +5,7 @@ Currently exploring **React, Python, and full-stack development** to improve my 
 
 
 
-<img src="techstack_skills.png" alt="bubble font I doodled of tech stack and skills heading" width="400">
+<img src="techstack_skills.png" alt="bubble font I doodled of tech stack and skills heading" height="80">
 Welcome to my Github Profile! Nice to meet you!
 
 My name is Saarah and I recently graduated from Loyola Marymount University with a major in Computer Science and a minor in Statistics and Data Science in May 2024. I'm currently looking for work as a Software Engineer, Data Scientist, UI/UX Designer, Front End Developer or Backend Developer. During my time at LMU, my favorite subjects included Database Systems, Web App Development, Linear Algebra, and Human Computer Interaction. Some non-technical courses I liked were Art History and Printmaking!
