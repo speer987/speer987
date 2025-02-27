@@ -9,13 +9,19 @@ I recently graduated from Loyola Marymount University with a major in Computer S
 I hope I can use my Github profile to showcase more projects that I will (hopefully) be programming in my free time. Thanks for stopping by, and feel free to look at any of the repos  I already have on my profile to gain insights into some of my favorite Front End Development/UI Design related projects such as "The Book Nook" or the compound interest calculator. You can see these projects under the Projects heading below!
 
 <img src="techstack_skills.png" alt="bubble font I doodled of tech stack and skills heading" height="50" />
-Add some info about tech stack and skills.
+
+- Frontend: React.js, React Native, HTML, CSS, Tailwind CSS, MUI, React Native Paper
+- Backend & Databases: Firebase (Firestore, Authentication), Neo4J, Cypher, SQL, API Integrations
+- Tools: Git, GitHub, XCode Simulator, Firebase Hosting, Clerk Authentication
+- Other Tech: Chart.js, Unix, Python, Kaggle, C
 
 <img src="projects.png" alt="bubble font I doodled of project heading" height="60" />
-Add some info about projects here.
+Here's a table of all the projects I have done so far:
+
 
 <img src="learning_and_goals.png" alt="bubble font I doodled of learning and goals heading" height="60" />
-Add some info about what you are learning currently.
+- Python and Data Structures (Leetcode)
+- I would like to make more personal projects that use front-end technologies and databases, so I hope I can work on them for the next few months.
 
 <img src="connect.png" alt="bubble font I doodled of connect heading" height="60" />
 You can find me at the following links:
@@ -26,6 +32,3 @@ You can find me at the following links:
 ### Some fun facts about me...
 - I like to explore new hobbies. Lately, I've been crocheting a lot and also painting, which are two of my old hobbies. I'm interested in the fiber arts and want to learn more about punch needling and knitting! I think my passion for crochet is what drew me towards programming because I had to learn how to read patterns, which is similar to the syntax used when coding.
 - I doodled all of the headings on this readme file!
-
-
-
