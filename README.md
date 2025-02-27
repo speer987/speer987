@@ -5,16 +5,16 @@ Currently exploring **React, Python, and full-stack development** to improve my 
 
 
 
-<img src="techstack_skills.png" alt="bubble font I doodled of tech stack and skills heading" height="60" />
+<img src="techstack_skills.png" alt="bubble font I doodled of tech stack and skills heading" height="50" />
 Add some info about tech stack and skills.
 
-<img src="projects.png" alt="bubble font I doodled of project heading" height="80" />
+<img src="projects.png" alt="bubble font I doodled of project heading" height="60" />
 Add some info about projects here.
 
-<img src="learning_and_goals.png" alt="bubble font I doodled of learning and goals heading" height="80" />
+<img src="learning_and_goals.png" alt="bubble font I doodled of learning and goals heading" height="60" />
 Add some info about what you are learning currently.
 
-<img src="connect.png" alt="bubble font I doodled of connect heading" height="80" />
+<img src="connect.png" alt="bubble font I doodled of connect heading" height="60" />
 Add links to linkedin and portfolio website here.
 
 ### Old readme starts here:
