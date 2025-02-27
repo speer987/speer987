@@ -10,10 +10,10 @@ I hope I can use my Github profile to showcase more projects that I will (hopefu
 
 <img src="techstack_skills.png" alt="bubble font I doodled of tech stack and skills heading" height="50" />
 
-- Frontend: React.js, React Native, HTML, CSS, Tailwind CSS, MUI, React Native Paper
-- Backend & Databases: Firebase (Firestore, Authentication), Neo4J, Cypher, SQL, API Integrations
-- Tools: Git, GitHub, XCode Simulator, Firebase Hosting, Clerk Authentication
-- General Language Skills: Javascript, Python, Java, SQL, React.js, React Native, CSS, Cypher (Neo4J), R
+- *** Frontend: *** React.js, React Native, HTML, CSS, Tailwind CSS, MUI, React Native Paper
+- *** Backend & Databases: *** Firebase (Firestore, Authentication), Neo4J, Cypher, SQL, API Integrations
+- *** Tools: *** Git, GitHub, XCode Simulator, Firebase Hosting, Clerk Authentication
+- *** General Language Skills: *** Javascript, Python, Java, SQL, React.js, React Native, CSS, Cypher (Neo4J), R
 
 <img src="projects.png" alt="bubble font I doodled of project heading" height="60" />
 Here is a list of all the projects that I have worked on:
