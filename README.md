@@ -13,13 +13,14 @@ I hope I can use my Github profile to showcase more projects that I will (hopefu
 - Frontend: React.js, React Native, HTML, CSS, Tailwind CSS, MUI, React Native Paper
 - Backend & Databases: Firebase (Firestore, Authentication), Neo4J, Cypher, SQL, API Integrations
 - Tools: Git, GitHub, XCode Simulator, Firebase Hosting, Clerk Authentication
-- Other Tech: Chart.js, Unix, Python, Kaggle, C
+- General Language Skills: Javascript, Python, Java, SQL, React.js, React Native, CSS, Cypher (Neo4J), R
 
 <img src="projects.png" alt="bubble font I doodled of project heading" height="60" />
 Here's a table of all the projects I have done so far:
 
 
 <img src="learning_and_goals.png" alt="bubble font I doodled of learning and goals heading" height="60" />
+
 - Python and Data Structures (Leetcode)
 - I would like to make more personal projects that use front-end technologies and databases, so I hope I can work on them for the next few months.
 
