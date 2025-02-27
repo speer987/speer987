@@ -5,7 +5,7 @@ Currently exploring **React, Python, and full-stack development** to improve my 
 
 
 
-<img src="techstack_skills.png" alt="bubble font I doodled of tech stack and skills heading" height="50" />
+<img src="techstack_skills.png" alt="bubble font I doodled of tech stack and skills heading" height="60" />
 Add some info about tech stack and skills.
 
 <img src="projects.png" alt="bubble font I doodled of project heading" height="80" />
