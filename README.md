@@ -21,9 +21,8 @@ Add some info about what you are learning currently.
 You can find me at the following links:
 
 [Personal Website](https://speer987.github.io/personal-website/)
-![Static Badge](https://img.shields.io/badge/LinkedIn?link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsaarah-peer%2F)
-<!-- ![Static Badge](https://img.shields.io/badge/LinkedIn) -->
 
+[LinkedIn](https://www.linkedin.com/in/saarah-peer/)
 
 ### Some fun facts about me...
 - I like to explore new hobbies. Lately, I've been crocheting a lot and also painting, which are two of my old hobbies. I'm interested in the fiber arts and want to learn more about punch needling and knitting! I think my passion for crochet is what drew me towards programming because I had to learn how to read patterns, which is similar to the syntax used when coding.
