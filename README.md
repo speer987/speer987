@@ -1,5 +1,5 @@
 ### Hi there! 👋 Welcome to my GitHub profile!
-![image of my name in bubble font that I doodled](IMG_0061.png)
+<img src="IMG_0061.png" alt="Bubble font name doodle" width="400" style="display: block; margin: 0; padding: 0; border: none;">
 
 I'm a junior developer passionate about building web applications and learning new technologies.  
 Currently exploring React, Python, and full-stack development to improve my skills.
