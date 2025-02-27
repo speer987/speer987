@@ -1,8 +1,7 @@
 ### Hi there! 👋 Welcome to my GitHub profile!
 <img src="IMG_0061.png" alt="image of my name in bubble font that I doodled" width="300">
 
-I'm a junior developer passionate about building web applications and learning new technologies.  
-Currently exploring React, Python, and full-stack development to improve my skills.
+I'm a junior developer passionate about building web applications and learning new technologies. I'm currently exploring React, Python, and full-stack development to improve my skills.
 
 I recently graduated from Loyola Marymount University with a major in Computer Science and a minor in Statistics and Data Science in May 2024. I'm currently looking for work as a Software Engineer, Data Scientist, UI/UX Designer, Front End Developer or Backend Developer. During my time at LMU, my favorite subjects included Database Systems, Web App Development, Linear Algebra, and Human Computer Interaction. Some non-technical courses I liked were Art History and Printmaking!
 
