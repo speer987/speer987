@@ -20,9 +20,8 @@ Add some info about what you are learning currently.
 <img src="connect.png" alt="bubble font I doodled of connect heading" height="60" />
 You can find me at the following links:
 
-[Personal Website](https://speer987.github.io/personal-website/)
-
-[LinkedIn](https://www.linkedin.com/in/saarah-peer/)
+- [Personal Website](https://speer987.github.io/personal-website/)
+- [LinkedIn](https://www.linkedin.com/in/saarah-peer/)
 
 ### Some fun facts about me...
 - I like to explore new hobbies. Lately, I've been crocheting a lot and also painting, which are two of my old hobbies. I'm interested in the fiber arts and want to learn more about punch needling and knitting! I think my passion for crochet is what drew me towards programming because I had to learn how to read patterns, which is similar to the syntax used when coding.
