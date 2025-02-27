@@ -1,4 +1,4 @@
-<p style="font-size: 300px;"> Hi there! 👋 Welcome to my GitHub profile! </p>
+### Hi there! 👋 Welcome to my GitHub profile!
 <img src="IMG_0061.png" alt="image of my name" width="500">
 I'm a junior developer passionate about building web applications and learning new technologies.  
 Currently exploring **React, Python, and full-stack development** to improve my skills.  
