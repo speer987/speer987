@@ -60,5 +60,5 @@ I graduated from **Loyola Marymount University** in May 2024 with a degree in **
 
 ### 📫 Let's Connect
 
-[![Personal Website](https://img.shields.io/badge/-Personal%20Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://speer987.github.io/personal-website/)
+[![Personal Website](https://img.shields.io/badge/-Personal%20Website-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://speer987.github.io/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saarah-peer/)
