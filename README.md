@@ -1,6 +1,6 @@
-# Hi, I'm Saarah
+# Hi, I'm Saarah!
 
-I'm a recent grad interested in **Software Engineering, UI/UX Design, Business, and Analytics**. I love building things with React, digging into databases, and figuring out how to make tech that people actually enjoy using.
+I'm a recent grad interested in **Software Engineering, UI/UX Design, Business, and Analytics**. I love building things with React, digging into databases, and figuring out how to make tech that people actually enjoy using. I'm currently working as a Product and UI Designer at Develop for Good to help redesign a website for a client.
 
 ---
 
@@ -16,6 +16,7 @@ I graduated from **Loyola Marymount University** in May 2024 with a degree in **
 ### Skills
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react&logoColor=black&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -23,35 +24,38 @@ I graduated from **Loyola Marymount University** in May 2024 with a degree in **
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)
 
 **Backend & Databases**
+
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 ![Neo4J](https://img.shields.io/badge/-Neo4J-4581C3?logo=neo4j&logoColor=white&style=flat-square)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 
 **Languages**
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat-square)
 ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat-square)
 
 **Tools**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
 ![Firebase Hosting](https://img.shields.io/badge/-Firebase%20Hosting-FFCA28?logo=firebase&logoColor=black&style=flat-square)
 
 ### Featured Projects
-- **[AI Smart Planner](https://github.com/speer987/smart-planner)** — An app to help people with executive dysfunction break down their yearly goals into quarterly, monthly, and weekly goals.
-- **[LMU Marketplace](https://github.com/speer987/senior-project-2)** — React Native mobile app built as my senior project
-- **[The Book Nook](https://github.com/speer987/the-book-nook)** — a React web app for tracking books you want to read
-- **[YeeHaw Programming Language](https://github.com/alex-armknecht/YeeHaw)** — a programming language built with a team, from scratch
-- **[Full Graph Database SDK](https://github.com/lmu-cmsi3520-fall2022/full-db-sdk-saarah/tree/main)** — an SDK with a command line interface for a graph database
+- **[AI Smart Planner](https://github.com/speer987/smart-planner)** - An app to help people with executive dysfunction break down their yearly goals into quarterly, monthly, and weekly goals.
+- **[LMU Marketplace](https://github.com/speer987/senior-project-2)** - React Native mobile app built as my senior project
+- **[The Book Nook](https://github.com/speer987/the-book-nook)** - a React web app for tracking books you want to read
+- **[YeeHaw Programming Language](https://github.com/alex-armknecht/YeeHaw)** - a programming language built with a team, from scratch
+- **[Full Graph Database SDK](https://github.com/lmu-cmsi3520-fall2022/full-db-sdk-saarah/tree/main)** - an SDK with a command line interface for a graph database
 
 ### More Projects
 
-- [mkfid](https://github.com/Sarronnn/CMSI-3510_Tadesse-Ramchandran-Peer-Abrams/tree/978d50c162fe4ea5cc9a2c40beb352426755fb5e/project/03-FinalProduct) — command line utility to make a file in a directory
-- [Nutrition](https://github.com/joanna-estrada/nutrition) — a React nutrition web app
+- [mkfid](https://github.com/Sarronnn/CMSI-3510_Tadesse-Ramchandran-Peer-Abrams/tree/978d50c162fe4ea5cc9a2c40beb352426755fb5e/project/03-FinalProduct) - command line utility to make a file in a directory
+- [Nutrition](https://github.com/joanna-estrada/nutrition) - a React nutrition web app
 - [React Country Data Finder](https://github.com/speer987/react-country-finder)
 - [Compound Interest Calculator](https://github.com/speer987/compound-interest-calculator)
-- BetterHealth — a medication tracking mobile app
+- BetterHealth - a medication tracking mobile app
 - ARHC NYC Website Project - A website built for a client with special needs
 
 ### 📫 Let's Connect
