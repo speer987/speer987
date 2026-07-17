@@ -5,7 +5,7 @@ I'm a recent grad interested in **Software Engineering, UI/UX Design, Business, 
 ---
 
 ### About Me
-I graduated from **Loyola Marymount University** in May 2024 with a degree in **Computer Science** and a minor in **Statistics and Data Science**. My favorite classes were Database Systems, Web App Development, Linear Algebra, and Human Computer Interaction and on the non-technical side, I loved Art History and Printmaking. In the past, I've completed apprenticeships at Google and Meta. I'm also passionate abotu productivity, and love learning new methods to plan effectively.
+I graduated from **Loyola Marymount University** in May 2024 with a degree in **Computer Science** and a minor in **Statistics and Data Science**. My favorite classes were Database Systems, Web App Development, Linear Algebra, and Human Computer Interaction. On the non-technical side, I loved my Art History and Printmaking classes. In the past, I've completed apprenticeships at Google and Meta. I'm also passionate about productivity, and I love learning new methods to plan effectively.
 
 ### Currently
 - Job hunting for roles in **Software Engineering, Data Analytics, UI/UX Design, and Front End**
